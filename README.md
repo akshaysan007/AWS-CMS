@@ -1,6 +1,7 @@
 # AWS-CMS
 
-Name: Akshay Rajshekar Shiraguppi
+Name: Akshay Rajshekar Shiraguppi 
+Teammate:Ronak Lodaya
 Project: Cab Management Service Website
 Desciption: Developed a website using AWS services for managing cab services like Rides, Drivers, Vehicles, Customers.
 Created and managed AWS EC2, S3, RDS, SNS & SES in a team consisting of 2 members.
