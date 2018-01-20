@@ -1,4 +1,5 @@
 # AWS-CMS
+# Amazon Web Services - Demo Application
 
 Name: Akshay Rajshekar Shiraguppi 
 Teammate:Ronak Lodaya
@@ -9,8 +10,6 @@ The project was done as a hobby project and was coded in PHP. Tools: AWS service
 
 Public DNS:**  ec2-54-227-150-9.compute-1.amazonaws.com
 
-# Amazon Web Services - Demo Application
-
 The application shows the demo use of Amazon Web Services such as: 
   - Amazon EC2 (Elastic Cloud)
   - Amazon S3 (Storage Service)
@@ -19,7 +18,6 @@ The application shows the demo use of Amazon Web Services such as:
   - Amazon SES (Simple Email Service)
 
 Following are the technologies used to develop this application:
-
 * [Amazon Web Services](https://aws.amazon.com/) - To implement the above specified services.
 * [Laravel](https://laravel.com/) - To build the back-end of the application. 
 * [Bootstrap](https://getbootstrap.com/) - To design the UI of the application.
