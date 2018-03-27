@@ -5,7 +5,7 @@
 *******I HAVE CURRENTLY STOPPED THE EC2 INSTANCE AS IT'S ABOUT TO CROSS THE FREE TIER LIMIT. IF YOU WOULD LIKE TO CHECK THE WEBSITE OUT, PLEASE CONTACT ME AT akshayrs1993@gmail.com AND I WILL START THE EC2 INSTANCE FOR A SHORT TIME.***********
 
 Name: Akshay Rajshekar Shiraguppi <br/>
-Teammate:Ronak Lodaya<br/>
+Teammate: Ronak Lodaya<br/>
 Project: Cab Management Service Website<br/>
 Desciption: Developed a website using AWS services for managing cab services like Rides, Drivers, Vehicles, Customers.<br/>
 Created and managed AWS EC2, S3, RDS, SNS & SES in a team consisting of 2 members.<br/>
