@@ -8,7 +8,7 @@ Name: Akshay Rajshekar Shiraguppi <br/>
 Teammate: Ronak Lodaya<br/>
 Project: Cab Management Service Website<br/>
 Desciption: Developed a website using AWS services for managing cab services like Rides, Drivers, Vehicles, Customers.<br/>
-Created and managed AWS EC2, S3, RDS, SNS & SES in a team consisting of 2 members.<br/>
+I created and managed AWS EC2, S3, RDS, SNS & SES in a team consisting of 2 members.<br/>
 The project was done as a hobby project and was coded in PHP. Tools: AWS services, AWS CLI, Laravel<br/>
 
 Public DNS:**  ec2-54-227-150-9.compute-1.amazonaws.com   <br/>
