@@ -1,6 +1,9 @@
 # AWS-CMS
 # Amazon Web Services - Demo Application
 
+
+*******I HAVE CURRENTLY STOPPED THE EC2 INSTANCE AS IT'S ABOUT TO CROSS THE FREE TIER LIMIT. IF YOU WOULD LIKE TO CHECK THE WEBSITE OUT, PLEASE CONTACT ME AT akshayrs1993@gmail.com AND I WILL START THE EC2 INSTANCE FOR A SHORT TIME.***********
+
 Name: Akshay Rajshekar Shiraguppi 
 Teammate:Ronak Lodaya
 Project: Cab Management Service Website
