@@ -4,14 +4,14 @@
 
 *******I HAVE CURRENTLY STOPPED THE EC2 INSTANCE AS IT'S ABOUT TO CROSS THE FREE TIER LIMIT. IF YOU WOULD LIKE TO CHECK THE WEBSITE OUT, PLEASE CONTACT ME AT akshayrs1993@gmail.com AND I WILL START THE EC2 INSTANCE FOR A SHORT TIME.***********
 
-Name: Akshay Rajshekar Shiraguppi 
-Teammate:Ronak Lodaya
-Project: Cab Management Service Website
-Desciption: Developed a website using AWS services for managing cab services like Rides, Drivers, Vehicles, Customers.
-Created and managed AWS EC2, S3, RDS, SNS & SES in a team consisting of 2 members.
-The project was done as a hobby project and was coded in PHP. Tools: AWS services, AWS CLI, Laravel
+Name: Akshay Rajshekar Shiraguppi <br/>
+Teammate:Ronak Lodaya<br/>
+Project: Cab Management Service Website<br/>
+Desciption: Developed a website using AWS services for managing cab services like Rides, Drivers, Vehicles, Customers.<br/>
+Created and managed AWS EC2, S3, RDS, SNS & SES in a team consisting of 2 members.<br/>
+The project was done as a hobby project and was coded in PHP. Tools: AWS services, AWS CLI, Laravel<br/>
 
-Public DNS:**  ec2-54-227-150-9.compute-1.amazonaws.com
+Public DNS:**  ec2-54-227-150-9.compute-1.amazonaws.com   <br/>
 
 The application shows the demo use of Amazon Web Services such as: 
   - Amazon EC2 (Elastic Cloud)
